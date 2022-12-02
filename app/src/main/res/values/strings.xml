@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CarlosHernandez_OscarMiralles_MAPD711_Assignment4</string>
+
+    <string name="button_search_title">Search</string>
+    <string name="button_map_type_title">Map type (Hybrid)</string>
+    <string name="search_places_activity_title">Assignment 4</string>
+
+    <string name="map_type_satellite">Map type (Satellite)</string>
+    <string name="map_type_terrain">Map type (Terrain)</string>
+    <string name="map_type_normal">Map type (Normal)</string>
+    <string name="map_type_hybrid">Map type (Hybrid)</string>
+
+    <string-array name="cities_names">
+        <item>Mexico City</item>
+        <item>Barcelona</item>
+        <item>Toronto</item>
+        <item>Rio de Janeiro</item>
+        <item>New York</item>
+        <item>San Francisco</item>
+        <item>Vancouver</item>
+        <item>Paris</item>
+        <item>London</item>
+        <item>Rome</item>
+    </string-array>
+
+    <string-array name="places_categories">
+        <item>airport</item>
+        <item>museum</item>
+        <item>bar</item>
+        <item>cafe</item>
+        <item>night_club</item>
+        <item>park</item>
+        <item>restaurant</item>
+        <item>stadium</item>
+        <item>hospital</item>
+        <item>atm</item>
+    </string-array>
+</resources>
